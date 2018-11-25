@@ -8,7 +8,7 @@
 * 1x CC1101 Funkmodul **(868 MHz)**
 * 1x FTDI Adapter (wird nur zum Flashen benötigt)
 
-**Netzteil nur zu Verwenden wenn Spannungsversorgunf über 9-36V**
+**Netzteil nur zu Verwenden wenn Spannungsversorgung 9-36V**
 * 1x Kondensator RAD FC 100/50 :: Elko radial, 100 uF, 50 V, 105°C, low ESR
 * 1x Kondensator RAD FC 100/16 :: Elko radial, 100 uF, 16 V, 105°C, low ESR
 * 1x Sicherung MINI TR 0,5A :: Kleinstsicherung zum Einlöten, träge 0,5A
