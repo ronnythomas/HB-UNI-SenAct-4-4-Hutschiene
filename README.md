@@ -7,6 +7,7 @@
 * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
 * 1x CC1101 Funkmodul **(868 MHz)**
 * 1x FTDI Adapter (wird nur zum Flashen benötigt)
+
 **Netzteil nur zu Verwenden wenn Spannungsversorgunf über 9-36V**
 * 1x Kondensator RAD FC 100/50 :: Elko radial, 100 uF, 50 V, 105°C, low ESR
 * 1x Kondensator RAD FC 100/16 :: Elko radial, 100 uF, 16 V, 105°C, low ESR
