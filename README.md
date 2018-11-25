@@ -29,6 +29,9 @@
 * 5x LED 5mm
 * 5x 1/4W 330 :: Widerstand, Kohleschicht, 330 Ohm, 0207, 250 mW, 5%
 * 5x Taster 6 x 6 x 17mm
+* 1x CB HUTKIT 4 :: Leergehäuse, 58 x 71 x 90 mm, 4 TE
+
+**Artikelnummern sind von Reichelt**
 
 **Das Modul hat I2C nach aussen gefürht wenn jemand die Software weiter Entwickeln will. Die Pull Up Widerstände wären 2,2K Ohm und sind auf der Oberen Platine.** 
 
