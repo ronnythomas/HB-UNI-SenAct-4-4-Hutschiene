@@ -38,12 +38,14 @@
 
 ![complete](Images/1.jpg)
 ![complete](Images/2.jpg)
-**wenn weiter Hutschienen Module über das Netzteil mit 5V Versorgt werden sollen ist pro weiteres Modul je 1 Widerstand 1Ohm einzusetzen.**
+
+**wenn weitere Hutschienen Module über das Netzteil mit 5V Versorgt werden sollen ist pro weiteres Modul je 1 Widerstand 1Ohm einzusetzen.**
 
 ![complete](Images/3.jpg)
 ![complete](Images/4.jpg)
 
 **Internen Netzteil auf 5V, bei Spannungsversorgung über 5V direkt wird das nicht benötigt!**
+
 ![complete](Images/5.jpg)
 ![complete](Images/6.jpg)
 ![complete](Images/7.jpg)
