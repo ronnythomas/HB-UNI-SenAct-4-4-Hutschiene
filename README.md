@@ -37,6 +37,7 @@
 **Das Modul hat I2C nach aussen gefürht wenn jemand die Software weiter Entwickeln will. Die Pull Up Widerstände wären 2,2K Ohm und sind auf der Oberen Platine.** 
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
 [Software](https://github.com/jp112sdl/HB-UNI-SenAct-4-4)
 
 
