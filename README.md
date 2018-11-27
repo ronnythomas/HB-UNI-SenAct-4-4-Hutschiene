@@ -27,6 +27,7 @@
 * 1x STAPELLEISTE 20 :: Stapelleiste, 20-polig, einreihig, Höhe 38mm
 * 1x SL 1X10G 2,00 :: 10pol.-Stiftleiste, gerade, RM 2,00
 * 5x LED 5mm
+* 5x MEN 2819.5090 Abstandhalter für 5 mm LEDs, Länge 9 mm
 * 5x 1/4W 330 :: Widerstand, Kohleschicht, 330 Ohm, 0207, 250 mW, 5%
 * 5x Taster 6 x 6 x 17mm
 * 1x CB HUTKIT 4 :: Leergehäuse, 58 x 71 x 90 mm, 4 TE
