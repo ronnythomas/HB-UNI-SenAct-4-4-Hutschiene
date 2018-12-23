@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/ronnythomas/HB-UNI-SenAct-4-4-Hutschiene.svg)](http://hits.dwyl.io/ronnythomas/HB-UNI-SenAct-4-4-Hutschiene)
 # HB-UNI-SenAct-4-4-Hutschine
 # 4x 16A Wechelkontakte (Potentioalfrei) + 4 Eingänge (Schalter/Taster)
 # Spannungsversorgung 9-36V mit Internen Netzteil oder 5V
